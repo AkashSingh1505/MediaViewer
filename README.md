@@ -9,9 +9,11 @@ MediaViewer is an Android application that allows users to browse and play video
 - **Metadata Display**: Display video name and duration in a user-friendly list.
 - **Clean Architecture**: Utilizes `ViewModel`, `Repository`, and `Dependency Injection (DI)` patterns to maintain a clean and maintainable codebase.
 
-## Screenshots
+## Download
 
-(Add screenshots here, if available)
+You can download the latest version of the app from the following link:
+
+[Download MediaViewer App](https://drive.google.com/file/d/158n2C35jnMz5fCwk5T19XQUeC_9FAnje/view?usp=sharing)  
 
 ## Installation
 
